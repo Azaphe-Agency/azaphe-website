@@ -80,7 +80,7 @@ export function ProcessSection() {
               Sem compromisso, sem pressão.
             </p>
             <div className="text-sm text-muted-foreground">
-              ⏰ Consulta gratuita de 30 minutos • 📞 Via chamada de vídeo ou telefone
+              Consulta gratuita de 30 minutos • Via chamada de vídeo ou telefone
             </div>
           </div>
         </div>

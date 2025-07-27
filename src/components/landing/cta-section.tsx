@@ -49,7 +49,7 @@ export function CtaSection() {
           </div>
 
           <div className="mt-8 text-sm opacity-75">
-            🔒 Seus dados estão seguros • ⚡ Resposta em até 2 horas • 🇧🇷 Atendimento em português
+            Seus dados estão seguros • Resposta em até 2 horas • Atendimento em português
           </div>
         </div>
       </div>
