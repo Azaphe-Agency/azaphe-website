@@ -15,8 +15,10 @@ export function HeroSection() {
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">Somos a Azaphe, agência digital especializada em ajudar negócios locais no Brasil e no exterior (EUA, Canadá e Austrália) a dominarem o mercado local através de estratégias digitais personalizadas e eficazes.</p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-            <Button size="lg" className="bg-gradient-azaphe hover:shadow-azaphe transition-all duration-300 text-lg px-8 py-6">Fale com nossos consultores</Button>
-            <WhatsAppButton phoneNumber="5511999999999" className="text-lg px-8 py-6" />
+            <a href="https://api.whatsapp.com/send/?phone=551148632240&text=Olá%21+Eu+quero+saber+mais+sobre+os+serviços+para+meu+negócio.&type=phone_number&app_absent=0" target="_blank">
+              <Button size="lg" className="bg-gradient-azaphe hover:shadow-azaphe transition-all duration-300 text-lg px-8 py-6">Fale com nossos consultores</Button>
+            </a>
+            <WhatsAppButton phoneNumber="551148632240" className="text-lg px-8 py-6" />
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
