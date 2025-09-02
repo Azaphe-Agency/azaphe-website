@@ -22,7 +22,7 @@ const Index = () => {
       
       {/* Fixed WhatsApp Button */}
       <WhatsAppButton 
-        phoneNumber="5511999999999"
+        phoneNumber="551148632240"
         message="Olá! Eu quero saber mais sobre os serviços para meu negócio."
         variant="fixed"
       />
