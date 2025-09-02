@@ -12,7 +12,7 @@ export function HeroSection() {
             <span className="bg-gradient-azaphe bg-clip-text text-transparent">referência local</span>
           </h1>
           
-          <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">Somos a Azaphe, agência digital especializada em ajudar negócios locais no Brasil e no exterior (EUA, Canadá e Austrália) a dominarem o mercado local através de estratégias digitais personalizadas e eficazes.</p>
+          <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">Somos a Azaphe, agência digital especializada em ajudar negócios locais no Brasil e no exterior (EUA e Portugal) a dominarem o mercado local através de estratégias digitais personalizadas e eficazes.</p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
             <a href="https://api.whatsapp.com/send/?phone=551148632240&text=Olá%21+Eu+quero+saber+mais+sobre+os+serviços+para+meu+negócio.&type=phone_number&app_absent=0" target="_blank">
