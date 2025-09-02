@@ -23,7 +23,7 @@ export function HeroSection() {
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
             <div className="bg-card/50 backdrop-blur-sm rounded-lg p-6 border">
-              <div className="text-3xl font-bold text-primary mb-2">+1400</div>
+              <div className="text-3xl font-bold text-primary mb-2">+450</div>
               <div className="text-muted-foreground">Projetos entregues</div>
             </div>
             <div className="bg-card/50 backdrop-blur-sm rounded-lg p-6 border">
@@ -31,8 +31,8 @@ export function HeroSection() {
               <div className="text-muted-foreground">De experiência no mercado</div>
             </div>
             <div className="bg-card/50 backdrop-blur-sm rounded-lg p-6 border">
-              <div className="text-3xl font-bold text-primary mb-2">4 países</div>
-              <div className="text-muted-foreground">Brasil, EUA, Canadá e Austrália</div>
+              <div className="text-3xl font-bold text-primary mb-2">3 países</div>
+              <div className="text-muted-foreground">Brasil, EUA e Portugal</div>
             </div>
           </div>
         </div>
