@@ -27,7 +27,7 @@ export function HeroSection() {
               <div className="text-muted-foreground">Projetos entregues</div>
             </div>
             <div className="bg-card/50 backdrop-blur-sm rounded-lg p-6 border">
-              <div className="text-3xl font-bold text-primary mb-2">5+ anos</div>
+              <div className="text-3xl font-bold text-primary mb-2">3+ anos</div>
               <div className="text-muted-foreground">De experiência no mercado</div>
             </div>
             <div className="bg-card/50 backdrop-blur-sm rounded-lg p-6 border">
