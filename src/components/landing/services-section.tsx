@@ -73,9 +73,9 @@ export function ServicesSection() {
               </div>
 
               <div className="mt-8 space-y-4">
-                <Button size="lg" className="w-full bg-white text-primary hover:bg-white/90 transition-colors text-lg py-6">
-                  Fale com nossos consultores
-                </Button>
+                <a href="https://api.whatsapp.com/send/?phone=551148632240&text=Olá%21+Eu+quero+saber+mais+sobre+os+serviços+para+meu+negócio.&type=phone_number&app_absent=0" target="_blank">
+                  <Button size="lg" className="w-full bg-white text-primary hover:bg-white/90 transition-colors text-lg py-6">Fale com nossos consultores</Button>
+                </a>
                 <WhatsAppButton phoneNumber="5511999999999" className="w-full bg-white/10 hover:bg-white/20 border-white text-white text-lg py-6" />
               </div>
             </div>
