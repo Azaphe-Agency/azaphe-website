@@ -59,10 +59,6 @@ export function TestimonialsSection() {
                 "{testimonial.content}"
               </p>
 
-              <div className="bg-gradient-azaphe text-white rounded-lg p-3 mb-4 text-center font-semibold">
-                {testimonial.result}
-              </div>
-
               <div className="flex items-center gap-3">
                 <img 
                   src={testimonial.image} 
