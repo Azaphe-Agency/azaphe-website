@@ -65,8 +65,8 @@ export function ServicesSection() {
                   e fazer crescer um negócio em qualquer mercado.
                 </p>
                 <p>
-                  Com mais de 5 anos no mercado, nossa equipe especializada já ajudou centenas 
-                  de brasileiros no Brasil, EUA, Canadá e Austrália a transformarem seus negócios em 
+                  Com mais de 3 anos no mercado, nossa equipe especializada já ajudou centenas 
+                  de brasileiros no Brasil, EUA e Portugal a transformarem seus negócios em 
                   referências locais.
                 </p>
                 
