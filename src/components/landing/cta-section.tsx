@@ -44,8 +44,10 @@ export function CtaSection() {
           </div>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <Button size="lg" className="bg-white text-primary hover:bg-white/90 transition-all duration-300 text-lg px-12 py-6 shadow-lg hover:shadow-xl">Fale com nossos consultores</Button>
-            <WhatsAppButton phoneNumber="5511999999999" message="Olá! Vi a landing page da Azaphe e quero saber mais sobre os serviços para meu negócio." className="bg-white/10 hover:bg-white/20 border-white text-white text-lg px-12 py-6" />
+            <a href="https://api.whatsapp.com/send/?phone=551148632240&text=Olá%21+Eu+quero+saber+mais+sobre+os+serviços+para+meu+negócio.&type=phone_number&app_absent=0" target="_blank">
+              <Button size="lg" className="bg-white text-primary hover:bg-white/90 transition-all duration-300 text-lg px-12 py-6 shadow-lg hover:shadow-xl">Fale com nossos consultores</Button>
+            </a>
+            <WhatsAppButton phoneNumber="551148632240" message="Olá! Vi a landing page da Azaphe e quero saber mais sobre os serviços para meu negócio." className="bg-white/10 hover:bg-white/20 border-white text-white text-lg px-12 py-6" />
           </div>
 
           <div className="mt-8 text-sm opacity-75">
