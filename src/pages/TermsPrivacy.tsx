@@ -32,7 +32,7 @@ export default function TermsPrivacy() {
                   <h3 className="text-lg font-semibold mb-3">1. Definições</h3>
                   <p className="text-muted-foreground leading-relaxed">
                     A Azaphe é uma agência digital especializada em serviços de marketing digital para negócios de brasileiros 
-                    no Brasil e no exterior (EUA, Canadá e Austrália). Estes termos regem a prestação de nossos serviços.
+                    no Brasil e no exterior. Estes termos regem a prestação de nossos serviços.
                   </p>
                 </section>
 
