@@ -1,6 +1,6 @@
 {
   "redirects": [
-    { "source": "/link", "destination": "https://linktr.ee/azaphe.agencia" }
+    { "source": "/links", "destination": "https://linktr.ee/azaphe.agencia" }
   ],
   "rewrites": [
     { "source": "/(.*)", "destination": "/" }
